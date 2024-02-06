@@ -1,0 +1,7 @@
+A:\DOT NET\Dotnet_6thsem\Dotnet_6thsem\bin\Debug\Dotnet_6thsem.exe.config
+A:\DOT NET\Dotnet_6thsem\Dotnet_6thsem\bin\Debug\Dotnet_6thsem.exe
+A:\DOT NET\Dotnet_6thsem\Dotnet_6thsem\bin\Debug\Dotnet_6thsem.pdb
+A:\DOT NET\Dotnet_6thsem\Dotnet_6thsem\obj\Debug\Dotnet_6thsem.csproj.AssemblyReference.cache
+A:\DOT NET\Dotnet_6thsem\Dotnet_6thsem\obj\Debug\Dotnet_6thsem.csproj.CoreCompileInputs.cache
+A:\DOT NET\Dotnet_6thsem\Dotnet_6thsem\obj\Debug\Dotnet_6thsem.exe
+A:\DOT NET\Dotnet_6thsem\Dotnet_6thsem\obj\Debug\Dotnet_6thsem.pdb
